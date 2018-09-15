@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cteditor",
+  "name": "CraftTweaker Editor",
+  "description": "In-Game CraftTweaker Script Editor",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tiffit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
